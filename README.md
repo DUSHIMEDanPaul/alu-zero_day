@@ -1,1 +1,2 @@
-# project-one
+HELLO THIS IS MY FIRST PROJECT
+
